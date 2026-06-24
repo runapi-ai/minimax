@@ -1,0 +1,10 @@
+{
+  "name": "minimax",
+  "version": "0.1.0",
+  "description": "RunAPI MiniMax API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/minimax/SKILL.md"
+    }
+  ]
+}
